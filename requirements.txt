@@ -1,0 +1,6 @@
+requests
+python-telegram-bot
+aiohttp
+yfinance
+feedparser
+python-telegram-bot[job-queue]
